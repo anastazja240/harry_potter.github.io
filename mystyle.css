@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-weight: 400; /* Możesz zmienić na dostępne wartości, np. 400 lub 700 */
+  font-style: normal;
+  font-optical-sizing: auto;
+}
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: #30360f;
+  margin-left: 20px;
+}
+h2 {
+  color: #cb401b;
+  margin-left: 15px;
+}
